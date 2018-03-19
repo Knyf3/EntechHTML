@@ -12,4 +12,10 @@
   padding-right: 20px;
   margin-top: 20px; }
 
+.brandslogo {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
 /*# sourceMappingURL=app.css.map */
