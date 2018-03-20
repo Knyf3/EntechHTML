@@ -12,9 +12,15 @@
   padding-right: 20px;
   margin-top: 20px; }
 
+.footerpage {
+  background-color: #595252;
+  color: #f4f4f4; }
+
 .brandslogo {
   background-color: white;
   display: flex;
+  margin-top: 15px;
+  margin-bottom: 15px;
   align-items: center;
   justify-content: center; }
 
